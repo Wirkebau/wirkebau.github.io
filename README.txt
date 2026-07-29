@@ -1,19 +1,19 @@
-WIRKEBAU CONSULTING — VERSION III
+WIRKEBAU CONSULTING — VERSION IV
 
-Preview:
-Open index.html in a browser.
+This package includes:
+- Updated index.html
+- Updated styles.css
+- Correctly cropped transparent logo files
+- Existing community photography and CV
 
 To publish:
-1. Replace the current index.html and styles.css in your repository.
-2. Replace or add the files in the assets folder using the enclosed assets folder.
-3. Open index.html locally to review.
-4. Commit and push through GitHub Desktop.
+1. Unzip this folder.
+2. In GitHub Desktop, choose Repository > Show in Finder.
+3. Replace index.html, styles.css, and the assets folder.
+4. Preview index.html in Safari.
+5. Commit the changed files to main and Push origin.
 
-Included updates:
-- New lighter hero image and revised hero message
-- Stronger typography and contrast
-- Redesigned Areas of Impact section
-- Real community-work photography
-- Photo-based community portfolio
-- Career metrics band
-- Mobile-responsive layout
+Current website email in this release:
+wirkebau@me.com
+
+After the new Google Workspace address is active, replace both occurrences of wirkebau@me.com in index.html with the new address.
